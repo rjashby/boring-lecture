@@ -1,12 +1,3 @@
-h2.intro {
+.intro {
   color: blue;
-}
-
-p.intro {
-  color: red;
-}
-
-img.intro {
-  border-radius: 8px;
-
 }
