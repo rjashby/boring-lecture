@@ -1,0 +1,12 @@
+h2.intro {
+  color: blue;
+}
+
+p.intro {
+  color: red;
+}
+
+img.intro {
+  size-adjust: 90px;
+
+}
