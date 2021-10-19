@@ -1,3 +1,10 @@
-.intro {
-  color: blue;
+h1  {
+  color: firebrick;
+}
+
+.highlight {
+  background-color: yellow;
+  margin: 5px;
+  border: solid black;
+  padding: 5px;
 }
